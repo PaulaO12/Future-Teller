@@ -1,0 +1,27 @@
+body{
+    text-align:center;
+    background-color:#83E1F6;
+}
+button{
+    padding:10px;
+    margin:10px;
+    border-radius:10px;
+    }
+#Header{
+    font-family: 'Lobster', cursive;
+    font-size:30px;
+    }
+p{
+    font-family: 'Handlee', cursive;
+    font-size:25px;
+}
+Button{
+    font-family: 'Lobster', cursive;
+    font-size:20px;
+    }
+#results{
+    font-family: 'Handlee', cursive;
+    font-size:25px;
+    margin:25px;
+    }
+    
